@@ -2,7 +2,7 @@
 
 Open Source Self Driving Car Platform Development Journey
 
-Udacity Self Driving Car Challenges
+Udacity Open Source Self-Driving Car
 
 
 
