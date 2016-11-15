@@ -26,7 +26,7 @@ def click_and_crop(event, x, y, flags, param):
 		cropping = False
  
 		# draw a rectangle around the region of interest
-		cv2.rectangle(image, refPt[0], refPt[1], (0, 255, 0), 2)
+		cv2.rectangle(image, refPt[0], refPt[1], (255, 255, 0), 2)
 		cv2.imshow("image", image)
 
 # construct the argument parser and parse the arguments
